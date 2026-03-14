@@ -1,0 +1,8 @@
+torch>=2.4.0
+torchvision
+sentence-transformers
+faiss-cpu
+pillow
+facenet-pytorch
+numpy
+requests
