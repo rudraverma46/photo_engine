@@ -1,0 +1,6 @@
+my_photos/
+*.json
+*.npy
+*.index
+*.db
+*.__pycache__/
